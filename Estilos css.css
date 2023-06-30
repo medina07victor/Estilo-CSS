@@ -1,0 +1,124 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+Button{
+	background-color:#0008CBA;
+	color: dodgerblue;
+    padding: 15px 32px;
+	font-size:24px;
+	border-radius:4px;
+	border:transparent;
+}
+body {
+	background-image:url(https://media.istockphoto.com/id/508788657/es/vector/metano-modelo-molecular.jpg?s=612x612&w=0&k=20&c=k-7bgeezqDLp00eBYPxVsm1qXm6dNFRs4-UsBIYZino=);
+}
+#general{
+	width:2100px;
+	margin:auto;
+	margin-top:40px, 
+	margin-bottom:20px;
+	border-radius:20px;
+	overflow: hidden;
+}
+header{
+	height:150px;
+	background:peachpuff;
+}
+header h1{
+	font-size:50px;
+	text-align:center;
+	line-height:150px;
+	border-radius:20px;
+}
+nav {
+	background:orange;
+	height:120px;
+	border-radius:20px;
+}
+nav form{
+	font-size:50px;
+	text-align:center;
+	line-height:100px;
+}
+#content{
+	width:1300px;
+	height:500px;
+	float:right;
+	background:teal;
+	border-radius:20px;
+	margin-top:10px;
+	margin-left:10px;
+}
+aside{
+	width:790px;
+	height:500px;
+	background:green;
+	border-radius:20px;
+	margin-top:10px;
+	float:left;
+}
+aside h2{
+	text-align: center;
+}
+aside img {
+	border-radius: 10px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+}
+#content p {
+	color: #FAEBD7;
+}
+#concepto {
+	height: 4000px;
+	background: #FAEBD7;
+	border-radius:20px;
+}
+#concepto h2 {
+	color: maroon;
+	font-size: 50px;
+}
+img {
+	border-radius: 10px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 20%;
+}
+#digestor img {
+	border-radius: 10px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+#digestor {
+	height: 2000px;
+	background: #FAEBD7;
+	margin-top:20px;
+	border-radius:20px;
+}
+#digestor h2 {
+	color: maroon;
+	font-size: 50px;
+}
+footer {
+	background:maroon;
+	clear: both;
+}
+footer h2{
+	font-size:40px;
+	text-align:center;
+	padding:20px;
+	margin-top:20px;
+	font-style: italic;
+	border-radius:20px;
+}
+p{font-size:30px;
+color:black;text-align:left;
+font-family:Berlin Sans FB}
+h1{font-size:70px;color:teal;text-align:center;font-family:Arial}
+h2{font-size:40px;color:aqua;text-align:center;font-family:Arial}
+h4{font-size:40px;color:aqua;text-align:center;font-family:Arial}
